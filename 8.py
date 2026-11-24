@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Oct 28 09:12:17 2026
-
 @author: user
 """
 
